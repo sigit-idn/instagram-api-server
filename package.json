@@ -8,5 +8,8 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {
+    "sharp": "^0.28.3",
+    "superagent": "^6.1.0"
+  }
 }
